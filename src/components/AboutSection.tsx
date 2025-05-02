@@ -17,7 +17,7 @@ export function AboutSection() {
             <Card className={`overflow-hidden ${isDark ? "glass-card" : ""}`}>
               <CardContent className="p-6 md:p-8">
                 <p className="text-lg mb-4">
-                  I am Krishnansh Vasaniya, a <strong>Bachelor of Technology</strong> graduate from MIT Art, Design and Technology University, Pune, specialized in AI and Edge Computing. With a strong CGPA of 7.11, I've developed expertise in building intelligent systems and applications.
+                  I am Krishnansh Vasaniya, a <strong>Bachelor of Technology</strong> graduate from MIT Art, Design and Technology University, Pune, specialized in AI and Edge Computing. With a strong foundation, I've developed expertise in building intelligent systems and webapps.
                 </p>
                 <p className="text-lg mb-4">
                   My professional journey includes roles as a <strong>Full-stack Developer</strong> at TechArtisan 3D Solutions LLP, where I built and deployed web applications using React.js and Node.js, and as a <strong>Developer</strong> at IIIT Hyderabad Fellowship, where I contributed to LiDAR-based pothole detection systems.
@@ -43,7 +43,7 @@ export function AboutSection() {
               <Card className={`${isDark ? "glass-card" : ""} animate-fade-in`} style={{ animationDelay: "0.3s" }}>
                 <CardContent className="p-6">
                   <h3 className="font-medium text-lg mb-2">Interests</h3>
-                  <p>AI, Machine Learning, Edge Computing, Computer Vision</p>
+                  <p>AI, Machine Learning, Edge Computing, Web Development/p>
                 </CardContent>
               </Card>
             </div>
